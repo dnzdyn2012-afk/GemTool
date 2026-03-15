@@ -42,7 +42,7 @@ void optimize() {
 
 void toggle_ai() {
     printf("gemai basliyor");
-    system("cd /home/deniz && python3 m.py");
+    system("python3 /home/deniz/m.py");
 }
 
 int main() {
